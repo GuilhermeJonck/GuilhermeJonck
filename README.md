@@ -1,10 +1,12 @@
 ### Oiii! Eu sou o Guilherme Jonck👋
 
 <div>
+  <div align="center">
   <a href="https://github.com/GuilhermeJonck">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeJonck"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeJonck&layout=compact"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luziza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luziza&layout=compact&langs_count=7&theme=dark"/>
+</div> 
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="GUI-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="GUI-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
